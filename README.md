@@ -1,9 +1,9 @@
 # Weather Data Investigation
 
-Udacity's Data Analyst Nanodegree - Project 5
+Udacity's Data Analyst Nanodegree - Project 1
 
 ## Summary
-In this project, you will analyze local and global temperature data and compare the temperature trends where you live to overall global temperature trends.
+In this project, local and global temperature data is compared to the temperature trends where you live to overall global temperature trends.
 This is a exploration of the MI Detroit data in compare to the global temperature trend
 
 ## Instructions
